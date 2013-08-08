@@ -1,0 +1,10 @@
+PODS:
+  - SHPAddressBook (0.0.15)
+
+DEPENDENCIES:
+  - SHPAddressBook
+
+SPEC CHECKSUMS:
+  SHPAddressBook: 7002b6a751f00834f6d997c42b1b2b09feb4475b
+
+COCOAPODS: 0.18.1
